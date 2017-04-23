@@ -188,6 +188,11 @@ footer {
     align-items: center;
 }
 
+footer img {
+  height: 1.5rem;
+  margin-left: 2rem;
+  margin-right: 1rem;
+}
 
 
 /* Media Queries */
@@ -292,6 +297,8 @@ footer {
   footer.container div {
     display: none;
   }
+
+
 
 
 
